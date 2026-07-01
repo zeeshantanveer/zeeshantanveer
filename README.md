@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:0088CC,100:00E5FF&height=200&section=header&text=Zeeshan%20Tanveer&fontSize=48&fontColor=E0E0FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20E-Commerce%20%26%20Shipping%20Solutions%20Specialist&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Zeeshan+Tanveer;Software+Engineer;E-Commerce+%26+Shipping+Solutions+Specialist&font=Fira+Code&center=true&width=900&height=120&color=00E5FF&vCenter=true&size=36&pause=1400&background=050510&multiline=false&repeat=true" width="100%"/>
 
 <a href="https://www.linkedin.com/in/zeeshan-tanveer">
   <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -272,7 +272,5 @@ Open to **Software Engineer, Laravel, Shopify, AI automation, and e-commerce pla
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0088CC,100:050510&height=100&section=footer" width="100%"/>
 
 </div>
