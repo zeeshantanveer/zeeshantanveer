@@ -286,14 +286,10 @@ Delivered and maintained production web platforms including ShoppingBin, HousePi
 </tr>
 <tr>
 <td width="50%" align="center">
-<b>Top 5 Languages by Repository</b>
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshantanveer&theme=tokyonight" width="100%"/>
+<img src="./assets/top-languages-by-repo.svg" width="100%" alt="Top 5 Languages by Repository"/>
 </td>
 <td width="50%" align="center">
-<b>Top 5 Languages by Commit</b>
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshantanveer&theme=tokyonight" width="100%"/>
+<img src="./assets/top-languages-by-commit.svg" width="100%" alt="Top 5 Languages by Commit"/>
 </td>
 </tr>
 </table>

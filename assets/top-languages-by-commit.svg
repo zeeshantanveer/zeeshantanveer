@@ -1,0 +1,45 @@
+<svg width="520" height="300" viewBox="0 0 520 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Top 5 Languages by Commit</title>
+  <desc id="desc">Top commit-weighted language card for Zeeshan Tanveer on GitHub.</desc>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="520" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#050510"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="520" height="300" rx="10" fill="url(#cardBg)"/>
+  <rect x="1" y="1" width="518" height="298" rx="9" stroke="#0088CC" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="34" y="48" fill="#00E5FF" font-size="27" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Top 5 Languages by Commit</text>
+  <text x="34" y="76" fill="#94A3B8" font-size="13" font-family="Segoe UI, Arial, sans-serif">Commit-oriented public profile language signal</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+    <text x="34" y="116" fill="#E0E0FF">TypeScript</text>
+    <rect x="150" y="101" width="300" height="16" rx="8" fill="#1F2937"/>
+    <rect x="150" y="101" width="300" height="16" rx="8" fill="url(#barGrad)"/>
+    <text x="465" y="116" fill="#E0E0FF" text-anchor="end">44.9%</text>
+
+    <text x="34" y="154" fill="#E0E0FF">Ruby</text>
+    <rect x="150" y="139" width="300" height="16" rx="8" fill="#1F2937"/>
+    <rect x="150" y="139" width="287" height="16" rx="8" fill="url(#barGrad)"/>
+    <text x="465" y="154" fill="#E0E0FF" text-anchor="end">42.9%</text>
+
+    <text x="34" y="192" fill="#E0E0FF">HTML</text>
+    <rect x="150" y="177" width="300" height="16" rx="8" fill="#1F2937"/>
+    <rect x="150" y="177" width="45" height="16" rx="8" fill="url(#barGrad)"/>
+    <text x="465" y="192" fill="#E0E0FF" text-anchor="end">6.8%</text>
+
+    <text x="34" y="230" fill="#E0E0FF">Vue</text>
+    <rect x="150" y="215" width="300" height="16" rx="8" fill="#1F2937"/>
+    <rect x="150" y="215" width="23" height="16" rx="8" fill="url(#barGrad)"/>
+    <text x="465" y="230" fill="#E0E0FF" text-anchor="end">3.4%</text>
+
+    <text x="34" y="268" fill="#E0E0FF">Sass</text>
+    <rect x="150" y="253" width="300" height="16" rx="8" fill="#1F2937"/>
+    <rect x="150" y="253" width="8" height="16" rx="8" fill="url(#barGrad)"/>
+    <text x="465" y="268" fill="#E0E0FF" text-anchor="end">0.8%</text>
+  </g>
+</svg>
