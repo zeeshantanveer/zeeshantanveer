@@ -124,7 +124,7 @@ Developed and maintained PHP/Laravel web applications with a focus on clean code
 
 <br/>
 
-## Achievements
+## Featured Projects
 
 <table>
 <tr>
