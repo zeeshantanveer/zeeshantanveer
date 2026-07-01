@@ -1,8 +1,8 @@
 <!--
 SEO title: Zeeshan Tanveer - Senior Software Engineer | Laravel, Shopify, E-Commerce, Logistics, AI Automation
-SEO description: Senior Software Engineer targeting Saudi Arabia and GCC roles with 7+ years of experience in Laravel, PHP, Shopify apps, e-commerce automation, shipping logistics platforms, OpenAI integrations, WhatsApp automation, and n8n workflows.
+SEO description: Senior Software Engineer with 7+ years of experience in Laravel, PHP, Shopify apps, e-commerce automation, shipping logistics platforms, OpenAI integrations, WhatsApp automation, and n8n workflows.
 Canonical GitHub URL: https://github.com/zeeshantanveer
-AI summary: Zeeshan Tanveer is a senior-level software engineer specializing in backend systems, Laravel, Shopify apps, e-commerce automation, shipping logistics, OpenAI-powered support, WhatsApp automation, and workflow automation for Saudi Arabia, GCC, and remote technology teams.
+AI summary: Zeeshan Tanveer is a senior-level software engineer specializing in backend systems, Laravel, Shopify apps, e-commerce automation, shipping logistics, OpenAI-powered support, WhatsApp automation, and workflow automation for GCC, international, and remote technology teams.
 -->
 
 <div align="center">
@@ -37,13 +37,12 @@ AI summary: Zeeshan Tanveer is a senior-level software engineer specializing in 
 
 I am a senior-level Software Engineer based in Lahore, Pakistan, with **7+ years of professional experience** building production software for e-commerce, shipping logistics, SaaS platforms, Shopify apps, AI automation, and API-heavy business systems.
 
-My strongest work is at the intersection of **Laravel/PHP backend engineering, e-commerce automation, carrier integrations, OpenAI-powered customer support, WhatsApp automation, and workflow automation**. I am targeting senior software engineering opportunities in **Saudi Arabia, GCC, and remote product teams**.
+My strongest work is at the intersection of **Laravel/PHP backend engineering, e-commerce automation, carrier integrations, OpenAI-powered customer support, WhatsApp automation, and workflow automation**.
 
 **GitHub:** <a href="https://github.com/zeeshantanveer" target="_blank" rel="noopener noreferrer">https://github.com/zeeshantanveer</a>  
 **LinkedIn:** <a href="https://www.linkedin.com/in/zeeshan-tanveer" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/zeeshan-tanveer</a>  
 **Email:** <a href="mailto:z.tanvir22@gmail.com" target="_blank" rel="noopener noreferrer">z.tanvir22@gmail.com</a>  
 **Location:** Lahore, Pakistan  
-**Target markets:** Saudi Arabia, GCC, and remote engineering teams
 
 <br/>
 
@@ -52,21 +51,6 @@ My strongest work is at the intersection of **Laravel/PHP backend engineering, e
 Senior Software Engineer with deep experience designing, building, and maintaining business-critical web applications. I have led engineering delivery, built multi-carrier shipping systems, published Shopify app integrations, automated e-commerce workflows, and delivered AI-powered customer support tools.
 
 I bring a practical product mindset: understand the business workflow, simplify the system design, integrate reliable APIs, reduce manual work, and ship maintainable software that supports real operations.
-
-<br/>
-
-## Target Roles
-
-- Senior Software Engineer
-- Backend Engineer
-- Laravel Developer
-- PHP Developer
-- Shopify App Developer
-- E-Commerce Automation Engineer
-- AI Automation Developer
-- API Integration Engineer
-- Logistics / Shipping Platform Engineer
-- Full Stack Engineer with Laravel, React.js, Node.js, and Svelte
 
 <br/>
 
@@ -140,7 +124,7 @@ Developed and maintained PHP/Laravel web applications with a focus on clean code
 
 <br/>
 
-## Selected Projects
+## Achievements
 
 <table>
 <tr>
@@ -302,9 +286,13 @@ Delivered and maintained production web platforms including ShoppingBin, HousePi
 </tr>
 <tr>
 <td width="50%" align="center">
+<b>Top 5 Languages by Repository</b>
+<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshantanveer&theme=tokyonight" width="100%"/>
 </td>
 <td width="50%" align="center">
+<b>Top 5 Languages by Commit</b>
+<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshantanveer&theme=tokyonight" width="100%"/>
 </td>
 </tr>
@@ -318,7 +306,7 @@ Delivered and maintained production web platforms including ShoppingBin, HousePi
 
 <div align="center">
 
-Open to **senior software engineering, backend engineering, Laravel, Shopify, e-commerce automation, logistics platform, and AI automation roles** in Saudi Arabia, GCC, and remote product teams.
+Open to **senior software engineering, backend engineering, Laravel, Shopify, e-commerce automation, logistics platform, and AI automation roles** with GCC, international, and remote product teams.
 
 <br/><br/>
 
