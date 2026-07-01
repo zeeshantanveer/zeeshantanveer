@@ -1,0 +1,33 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zeeshan Tanveer</title>
+  <desc id="desc">Software Engineer - E-Commerce and Shipping Solutions Specialist</desc>
+  <defs>
+    <linearGradient id="headerGradient" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050510"/>
+      <stop offset="0.5" stop-color="#0088CC"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <linearGradient id="waveGradient" x1="0" y1="80" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#0088CC" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#050510" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="textGlow" x="-10%" y="-20%" width="120%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#headerGradient)"/>
+  <circle cx="104" cy="54" r="118" fill="#00E5FF" opacity="0.08"/>
+  <circle cx="1072" cy="26" r="150" fill="#050510" opacity="0.18"/>
+
+  <path d="M0 132L40 124.3C80 116.7 160 101.3 240 103.8C320 106.3 400 126.7 480 132.8C560 139 640 131 720 120.7C800 110.3 880 97.7 960 101.8C1040 106 1120 127 1160 137.5L1200 148V200H0V132Z" fill="url(#waveGradient)" opacity="0.94"/>
+  <path d="M0 156L50 151.8C100 147.7 200 139.3 300 140.7C400 142 500 153 600 159.5C700 166 800 168 900 161C1000 154 1100 138 1150 130L1200 122V200H0V156Z" fill="#050510" opacity="0.38"/>
+
+  <text x="600" y="82" text-anchor="middle" fill="#E0E0FF" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="700" filter="url(#textGlow)">Zeeshan Tanveer</text>
+  <text x="600" y="121" text-anchor="middle" fill="#E0E0FF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="500" letter-spacing="0.5">Software Engineer | E-Commerce &amp; Shipping Solutions Specialist</text>
+</svg>
