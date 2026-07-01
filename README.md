@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Zeeshan+Tanveer;Software+Engineer;E-Commerce+%26+Shipping+Solutions+Specialist&font=Fira+Code&center=true&width=900&height=120&color=00E5FF&vCenter=true&size=36&pause=1400&background=050510&multiline=false&repeat=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:0088CC,100:00E5FF&height=200&section=header&text=Zeeshan%20Tanveer&fontSize=48&fontColor=E0E0FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20E-Commerce%20%26%20Shipping%20Solutions%20Specialist&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/zeeshan-tanveer">
+<a href="https://www.linkedin.com/in/zeeshan-tanveer" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:z.tanvir22@gmail.com">
+<a href="mailto:z.tanvir22@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
-<a href="https://haleria.com">
+<a href="https://haleria.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Haleria-050510?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
 </a>
-<a href="https://freightdesk.online">
+<a href="https://freightdesk.online" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/FreightDesk-0088CC?style=for-the-badge&logo=shippo&logoColor=white" />
 </a>
 
@@ -162,7 +162,7 @@ Developed and maintained PHP/Laravel web applications serving 2,000+ daily activ
 
 Architected and launched an AI-powered customer support platform that reduced merchant manual support time by 60% and handles 5,000+ automated conversations monthly via WhatsApp.
 
-[`Visit Platform →`](https://haleria.com)
+<a href="https://haleria.com" target="_blank" rel="noopener noreferrer">Visit Platform -></a>
 
 </td>
 <td width="50%">
@@ -172,7 +172,7 @@ Architected and launched an AI-powered customer support platform that reduced me
 
 Built a multi-carrier shipping platform integrating 30+ LTL freight and 6+ parcel providers, with auto-import from 7+ e-commerce marketplaces and 10,000+ monthly shipments processed.
 
-[`Visit Platform →`](https://freightdesk.online)
+<a href="https://freightdesk.online" target="_blank" rel="noopener noreferrer">Visit Platform -></a>
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ Built a multi-carrier shipping platform integrating 30+ LTL freight and 6+ parce
 
 Developed and published the Shopify App enabling automatic order import, real-time rate comparison, transit-time comparison, and multi-carrier shipment creation.
 
-[`View App →`](https://apps.shopify.com/freightdesk-online-1)
+<a href="https://apps.shopify.com/freightdesk-online-1" target="_blank" rel="noopener noreferrer">View App -></a>
 
 </td>
 <td width="50%">
@@ -206,7 +206,7 @@ Built cross-platform printing apps that automate label printing for 500+ daily s
 
 Worked on shipping and e-commerce plugins for Eniture, supporting merchant workflows across WooCommerce and carrier integrations.
 
-[`View Plugins →`](https://wordpress.org/plugins/search/eniture)
+<a href="https://wordpress.org/plugins/search/eniture" target="_blank" rel="noopener noreferrer">View Plugins -></a>
 
 </td>
 <td width="50%">
@@ -216,7 +216,7 @@ Worked on shipping and e-commerce plugins for Eniture, supporting merchant workf
 
 Delivered and maintained production web platforms including ShoppingBin, HousePilot, Mondecheval, Kotore, Gardenia, and B&B Manufacturing.
 
-[`ShoppingBin →`](https://shoppingbin.com)
+<a href="https://shoppingbin.com" target="_blank" rel="noopener noreferrer">ShoppingBin -></a>
 
 </td>
 </tr>
@@ -261,13 +261,13 @@ Delivered and maintained production web platforms including ShoppingBin, HousePi
 
 Open to **Software Engineer, Laravel, Shopify, AI automation, and e-commerce platform roles**, especially across GCC-focused product and logistics teams.
 
-<a href="mailto:z.tanvir22@gmail.com">
+<a href="mailto:z.tanvir22@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email%20Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
-<a href="https://www.linkedin.com/in/zeeshan-tanveer">
+<a href="https://www.linkedin.com/in/zeeshan-tanveer" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0088CC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="tel:+923120576200">
+<a href="tel:+923120576200" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Call%20%2B92--312--0576200-050510?style=for-the-badge&logo=phonepe&logoColor=00E5FF" />
 </a>
 
